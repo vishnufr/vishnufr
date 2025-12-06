@@ -15,7 +15,7 @@ I love solving messy, ambiguous problems — turning data into decisions, and id
 
 ---
 
-## ✨ What I’m Doing Right Now
+## 👨‍🍳 What I’m Doing Right Now
 
 ### 💼 **Software Developement @ Revphlo**
 Working on the full Revphlo analytics platform — building features across backend, data systems, and intelligent retrieval engines that help sales teams understand their pipelines in real time.  
