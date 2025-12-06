@@ -53,7 +53,7 @@ Across semiconductor research, blockchain analytics, and ML systems engineering,
 
 ### **Programming Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,rust,js,swift,sql,html,css,csharp,go,r,kotlin,ruby,scala,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,rust,js,swift,html,css,go,r,kotlin,ruby,scala,bash" />
 </p>
 
 ### **Frameworks & Libraries**
@@ -63,7 +63,7 @@ Across semiconductor research, blockchain analytics, and ML systems engineering,
 
 ### **Tools & Technologies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,react,django,linux,alteryx" />
+  <img src="https://skillicons.dev/icons?i=postgres,react,django,linux" />
 </p>
 
 ---
