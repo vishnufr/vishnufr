@@ -3,7 +3,7 @@
     Hi there, I'm Vishnu Heddese! 
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">
   </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=500&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=Applied+ML+%26+Data+Engineering+🚀; Real-World+AI+for+Finance,+Blockchain+%26+Semiconductors;Product+%26+Research+Intern+Across+3+Countries;Turning+Data+Into+Impactful+Intelligence!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=500&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=Applied+ML+%26+Data+Engineering+🚀;Real-World+AI+for+Finance,+Blockchain+%26+Semiconductors;Product+%26+Research+Intern+Across+3+Countries;Turning+Data+Into+Impactful+Intelligence!" alt="Typing SVG">
 </div>
 
 ## 🚀 About Me
