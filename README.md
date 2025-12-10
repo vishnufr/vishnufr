@@ -9,16 +9,16 @@
 ## 🚀 About Me
 I’m an Informatics (Data Science) student at **The University of Texas at Austin**, passionate about building intelligent systems that sit at the intersection of **machine learning, analytics, product engineering, and real-world impact**.
 
-My journey spans San Jose → Bangalore → Dallas → Seoul → Austin, where I've designed ML systems for **semiconductor manufacturing**, built predictive models for **crypto markets**, engineered **LLM-powered auditing tools**, and contributed to full-stack product development used by real customers.
+My journey spans San Jose → Bangalore → Dallas → Seoul → Austin, where I've gained the experience of working on designed ML systems for **semiconductor manufacturing**, built predictive models for **crypto markets**, engineered **LLM-powered auditing tools**, and contributed to full-stack product development used by real customers.
 
-I love solving messy, ambiguous problems — turning data into decisions, and ideas into production-ready systems. Friendly people, good conversations, and ambitious teams are what motivate me most.
+I love solving messy, ambiguous problems ; turning data into decisions, and ideas into production-ready systems. Friendly people, good conversations, and ambitious teams are what motivate me most.
 
 ---
 
 ## 👨‍🍳 What I’m Doing Right Now
 
 ### 💼 **Software Developement @ Revphlo**
-Working on the full Revphlo analytics platform — building features across backend, data systems, and intelligent retrieval engines that help sales teams understand their pipelines in real time.  
+Working on the full Revphlo analytics platform ; building features across backend, data systems, and intelligent retrieval engines that help sales teams understand their pipelines in real time.  
 Some highlights:
 - Developing scalable features across the product stack, from data modeling to customer-facing intelligence.
 - Expanding the semantic retrieval pipelines powering sales insights.
