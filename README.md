@@ -7,7 +7,7 @@
 </div>
 
 ## 🚀 About Me
-I’m an Informatics (Data Science) student at **The University of Texas at Austin**, passionate about building intelligent systems that sit at the intersection of **machine learning, analytics, product engineering, and real-world impact**.
+I’m a student at **The University of Texas at Austin**, passionate about building intelligent systems that sit at the intersection of **machine learning, analytics, product engineering, and real-world impact**.
 
 My journey spans San Jose → Bangalore → Dallas → Seoul → Austin, where I've gained the experience of working on designed ML systems for **semiconductor manufacturing**, built predictive models for **crypto markets**, engineered **LLM-powered auditing tools**, and contributed to full-stack product development used by real customers.
 
