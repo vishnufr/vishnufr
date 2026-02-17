@@ -19,6 +19,8 @@ I love solving messy, ambiguous problems ; turning data into decisions, and idea
 
 ### 💼 **Software Developement @ Revphlo**
 https://revphlo.com/
+
+
 Working on the full Revphlo analytics platform ; building features across backend, data systems, and intelligent retrieval engines that help sales teams understand their pipelines in real time.  
 Some highlights:
 - Developing scalable features across the product stack, from data modeling to customer-facing intelligence.
